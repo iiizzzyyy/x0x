@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20210716T130000Z
+DTEND:20210716T140000Z
+DTSTAMP:20210709T111842Z
+ORGANIZER;CN=Michael Clark:mailto:michael.clark@massivit.com
+UID:040000008200E00074C5B7101A82E00800000000002F4FD6FE73D701000000000000000
+ 0100000003D5EF1F945C1A14493A1B77C0DF4D896
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jconst
+ antine@backcoveyachts.com;X-NUM-GUESTS=0:mailto:jconstantine@backcoveyachts
+ .com
+CREATED:20210708T191513Z
+DESCRIPTION:Meeting Outline\n\n\n\n\n  1.  MASSIVit 3D Introduction.\n     
+ *   Gel Dispensing Printing (GDP) Technology\n     *   Cast in Motion (CIM)
+  Technology\n     *   MASSIVit Tool Builder (MTB) Epoxy\n     *   Mold Prin
+ ting Workflow\n\n\n\n  1.  Back Cove Yachts Introduction.\n     *   Product
+ ion levels\n     *   Production challenges.\n     *   Number of Composite M
+ olds used yearly.\n     *   Number of new molds per year.\n     *   Mold Le
+ ad Times\n     *   Current Mold materials\n     *   Current Production mate
+ rials\n     *   Mold repair costs.\n\n\n\n  1.  Back Cove Custom component 
+ requests\n\n\n\n  1.  Questions\n\n\n  1.  Action Items and Clear Next Step
+ s.\n
+LAST-MODIFIED:20210709T111842Z
+LOCATION:23 Merrill Dr (23 Merrill Dr\, Rockland\, Maine  04841)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Back Cove Yachts - MASSIVit 3D - 3D Print Composite Molds in days n
+ ot weeks
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1785231333
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"23 Merrill Dr (23 Merrill Dr\, Rockl
+ and\, Maine  04841)"\,"LocationAnnotation":""\,"LocationUri":""\,"LocationS
+ treet":""\,"LocationCity":""\,"LocationState":""\,"LocationCountry":""\,"Lo
+ cationPostalCode":""\,"LocationFullAddress":""}]
+END:VEVENT
+END:VCALENDAR
+
